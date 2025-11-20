@@ -2535,6 +2535,7 @@ chiu
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
+- [Maxiiii]
 - [SeahM]
 - [Lama1kid]
 - [Jhutchinson98](https://github.com/Jhutchinson98)
